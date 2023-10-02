@@ -1,11 +1,13 @@
-I looked at two recent WSJ reports. The main story is “Children are dying in ill-prepared emergency rooms across America”. It’s complemented with a piece called “Find hospitals deemed ready to treat children in your area.”
+#I looked at two recent WSJ reports. The main story is “Children are dying in ill-prepared emergency rooms across America”. It’s complemented with a piece called “Find hospitals deemed ready to treat children in your area.”
 
 https://www.wsj.com/health/healthcare/hospitals-emergency-rooms-cost-childrens-lives-d6c9fc23?mod=hp_lead_pos7
 https://www.wsj.com/health/healthcare/emergency-rooms-hospitals-kids-1c41a8a8?mod=article_inline
 
-Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. YES 5
-What was it? That not all ERs are created equally when it comes to kids, and it’s a matter of life/death
-Was it in the headline? Yes, easy to grasp
+##Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. YES 5
+
+##What was it? That not all ERs are created equally when it comes to kids, and it’s a matter of life/death
+
+##Was it in the headline? Yes, easy to grasp
 Was that the most efficient way to navigate the visualization? The reporters created a map in the “find hospitals” piece that I thought was pretty fascinating and easy to use. You insert your zip code and a list will appear with hospitals that are adequately prepared to treat children. 
 Can you suggest ways to improve navigation? Yes- while I liked the interactive map, I don’t like how the long list of hospitals (including those hundreds of miles away) felt cumbersome. Listing two or three might have been more helpful/kept things more organized.
 Using your own knowledge and critical thinking abilities, do you think the data was accurate? 3.5
