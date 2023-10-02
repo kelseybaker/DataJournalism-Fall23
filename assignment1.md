@@ -1,9 +1,6 @@
 ## I looked at two recent WSJ reports. The main story is “Children are dying in ill-prepared emergency rooms across America”. It’s complemented with a piece called “Find hospitals deemed ready to treat children in your area.”
 
-Here's the [link](https://www.wsj.com/health/healthcare/hospitals-emergency-rooms-cost-childrens-lives-d6c9fc23?mod=hp_lead_pos7) to the main story, and here's the complementary interactive map piece.
-
-
-https://www.wsj.com/health/healthcare/emergency-rooms-hospitals-kids-1c41a8a8?mod=article_inline
+Here's the [link](https://www.wsj.com/health/healthcare/hospitals-emergency-rooms-cost-childrens-lives-d6c9fc23?mod=hp_lead_pos7) to the main story, and here's the [link](https://www.wsj.com/health/healthcare/emergency-rooms-hospitals-kids-1c41a8a8?mod=article_inline) to the complementary interactive map piece.
 
 Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. YES 5
 
