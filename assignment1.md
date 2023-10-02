@@ -2,11 +2,11 @@
 
 Here's the [link](https://www.wsj.com/health/healthcare/hospitals-emergency-rooms-cost-childrens-lives-d6c9fc23?mod=hp_lead_pos7) to the main story, and here's the [link](https://www.wsj.com/health/healthcare/emergency-rooms-hospitals-kids-1c41a8a8?mod=article_inline) to the complementary interactive map piece.
 
-Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. YES 5
+*Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. YES 5
 
-##What was it? That not all ERs are created equally when it comes to kids, and it’s a matter of life/death
+*What was it? That not all ERs are created equally when it comes to kids, and it’s a matter of life/death
 
-##Was it in the headline? Yes, easy to grasp
+*Was it in the headline? Yes, easy to grasp
 
 ##Was that the most efficient way to navigate the visualization? The reporters created a map in the “find hospitals” piece that I thought was pretty fascinating and easy to use. You insert your zip code and a list will appear with hospitals that are adequately prepared to treat children. 
 
