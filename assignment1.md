@@ -40,16 +40,17 @@ The report cites JAMA research that shows 1440 children died in 983 ERs because 
 
 * Draw your eye first to the most important pieces of information?
   - 5
-Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue? 5
-Overall I liked the graphics used. The “complexity of intubating a child” graphic was really helpful and straightforward. It’s not a graphic displaying data, but is instead a picture graphic comparing adult versus child airway size/complexity. Size makes sense to me without seeing the graphic, but I thought the graphic added value by showing how they are actually structured differently due to age. 
-Type (1-5)
-5- in this case, I think a minimalistic approach to type is helpful. The phrases used add value to the picture. 
-Color (1-5)
-4- airways are easy to spot and are blue. Maybe so much gray is a little boring though?? Or maybe it’s nice because it makes airways easier to see. 
-Creativity
-Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you? 4
-I thought the map and the airway graphic were well done and helpful. Aside from the lists in map results sometimes being unhelpful (if I know a quality hospital is 50 miles away from my home in Wilmington, NC, I don’t really need to know about the three that are 100-150 miles away).
-I think they should have had graphics to show any concentration of deaths (by hospital or by state/region). Also, of the 1440 deaths listed in JAMA research, whether or not the deaths rose, fell, or remained steady between 2012 and 2017. 
+    
+* Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue?
+  - 5
+  - Overall I liked the graphics used. The “complexity of intubating a child” graphic was really helpful and straightforward. It’s not a graphic displaying data, but is instead a picture graphic comparing adult versus child airway size/complexity. Size makes sense to me without seeing the graphic, but I thought the graphic added value by showing how they are actually structured differently due to age. 
+* Type?
+  - In this case, I think a minimalistic approach to type is helpful. The phrases used add value to the picture. 
+* Color?
+  - 4- airways are easy to spot and are blue. Maybe so much gray is a little boring though?? Or maybe it’s nice because it makes airways easier to see. 
+* Creativity?
+   - 4- I thought the map and the airway graphic were well done and helpful. Aside from the lists in map results sometimes being unhelpful (if I know a quality hospital is 50 miles away from my home in Wilmington, NC, I don’t really need to know about the three that are 100-150 miles away).
+   - I think they should have had graphics to show any concentration of deaths (by hospital or by state/region). Also, of the 1440 deaths listed in JAMA research, whether or not the deaths rose, fell, or remained steady between 2012 and 2017. 
 
 -------------------------
 ## Data story pitch
