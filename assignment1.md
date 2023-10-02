@@ -10,13 +10,13 @@ Here's the [link](https://www.wsj.com/health/healthcare/hospitals-emergency-room
 
 * Was that the most efficient way to navigate the visualization? The reporters created a map in the “find hospitals” piece that I thought was pretty fascinating and easy to use. You insert your zip code and a list will appear with hospitals that are adequately prepared to treat children. 
 
-* Can you suggest ways to improve navigation? Yes- while I liked the interactive map, I don’t like how the long list of hospitals (including those hundreds of miles away) felt cumbersome. Listing two or three might have been more helpful/kept things more organized.
+* Can you suggest ways to improve navigation?
+  - Yes- while I liked the interactive map, I don’t like how the long list of hospitals (including those hundreds of miles away) felt cumbersome. Listing two or three might have been more helpful/kept things more organized.
 
 * Using your own knowledge and critical thinking abilities, do you think the data was accurate? 3.5
 
-* List any areas where you question the accuracy of the data- 
-
-##The story notes that WSJ reporters were not able to get their hands on government data for hospitals due to ‘confidentiality’. 
+* List any areas where you question the accuracy of the data
+ - The story notes that WSJ reporters were not able to get their hands on government data for hospitals due to ‘confidentiality’. 
 State certification levels- I think they could have elaborated more on what “certification” means.
 
 ##Did they provide a source? Yes
