@@ -47,5 +47,11 @@ Did the piece use some creative elements to good effect? As in, to emphasize tho
 I thought the map and the airway graphic were well done and helpful. Aside from the lists in map results sometimes being unhelpful (if I know a quality hospital is 50 miles away from my home in Wilmington, NC, I don’t really need to know about the three that are 100-150 miles away).
 I think they should have had graphics to show any concentration of deaths (by hospital or by state/region). Also, of the 1440 deaths listed in JAMA research, whether or not the deaths rose, fell, or remained steady between 2012 and 2017. 
 
+-------------------------
+## Data story pitch
+
+I’d be interested in doing a data story on the use of semaglutides within recruit, active duty, and veteran populations, broken down by areas that provide the most prescriptions and/or VA regions. Semaglutide usage is only expected to grow– at the same time, the military’s recruiting crisis is only expected to worsen. The services are now helping recruits improve fitness/obesity with months-long pre-recruit courses. I’d be curious to see if any prospective recruits report semaglutide usage before entrance, and if that usage has any positive/negative effect on their future performance, especially since the drugs seem to be most effective when taken over the long-term (vice short).
+
+I’ve already submitted FOIAs to the VA and the Defense Health Agency (active military) for numbers/demographic information on semaglutide usage within these two institutions. I think it could also be interesting to bounce these numbers off civilian population data. 
 
 
